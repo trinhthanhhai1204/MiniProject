@@ -1,0 +1,4 @@
+MiniProject\Main.class
+MiniProject\controllers\BookManager.class
+MiniProject\models\Book.class
+MiniProject\services\BookService.class

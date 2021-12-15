@@ -1,0 +1,20 @@
+ID = 15097.0| Name = A Grammar of the English Tongue| Author = Samuel Johnson| Language = English| Category = Education| Price = 26.0
+ID = 13888.0| Name = Bacon| Author = Richard William Church| Language = English| Category = History| Price = 29.0
+ID = 25874.0| Name = Birds Illustrated by Color Photograph| Author = Various| Language = English| Category = Scientific| Price = 33.0
+ID = 25983.0| Name = Birds Illustrated by Color Photography| Author = Various| Language = English| Category = Scientific| Price = 20.0
+ID = 25973.0| Name = Birds of the Rockies| Author = Leander Sylvester Keyser| Language = English| Category = Scientific| Price = 22.0
+ID = 13177.0| Name = Chocolate and Cocoa Recipes and Home Made Candy Recipes| Author = Miss Parloa| Language = English| Category = Technology| Price = 36.0
+ID = 31963.0| Name = Der Fliegende Holländer| Author = Richard Wagner| Language = German| Category = Education| Price = 40.0
+ID = 14070.0| Name = English Grammar in Familiar Lectures| Author = Samuel Kirkham| Language = English| Category = Education| Price = 38.0
+ID = 31534.0| Name = Fifty-Two Sunday Dinners| Author = Elizabeth O. Hiller| Language = English| Category = Technology| Price = 39.0
+ID = 7010.0| Name = Graded Lessons in English An Elementary English Grammar Consisting of One Hundred Practical Lessons| Author = Alonzo Reed| Language = English| Category = Education| Price = 40.0
+ID = 37122.0| Name = Hunting in Many Lands| Author = Various| Language = English| Category = Animals| Price = 36.0
+ID = 53499.0| Name = Martin Luther| Author = Carl E. Koppenhaver| Language = English| Category = History| Price = 37.0
+ID = 26346.0| Name = Our Bird Comrades| Author = Leander Sylvester| Language = English| Category = Scientific| Price = 30.0
+ID = 12238.0| Name = Science in the Kitchen| Author = Mrs. E. E. Kellogg| Language = English| Category = Technology| Price = 29.0
+ID = 4667.0| Name = Seven Wives and Seven Prisons| Author = L.A. Abbott| Language = English| Category = History| Price = 26.0
+ID = 24388.0| Name = Squirrels and Other Fur-Bearers| Author = John Burroughs| Language = English| Category = Animals| Price = 39.0
+ID = 33721.0| Name = The Barren Ground Caribou of Keewatin| Author = Francis Harper| Language = English| Category = Animals| Price = 34.0
+ID = 26323.0| Name = The Suffrage Cook Book| Author = L. O. Kleber| Language = English| Category = Technology| Price = 40.0
+ID = 984.0| Name = Who Was Who: 5000 B. C. to Date| Author = Anonymous| Language = English| Category = History| Price = 28.0
+ID = 34501.0| Name = Wolf and Coyote Trapping| Author = Arthur Robert| Language = English| Category = Animals| Price = 25.0

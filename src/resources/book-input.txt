@@ -1,0 +1,20 @@
+34501, Wolf and Coyote Trapping, Arthur Robert, English, Animals, 25
+37122, Hunting in Many Lands, Various, English, Animals, 36
+24388, Squirrels and Other Fur-Bearers, John Burroughs, English, Animals, 39
+33721, The Barren Ground Caribou of Keewatin, Francis Harper, English, Animals, 34
+31534, Fifty-Two Sunday Dinners, Elizabeth O. Hiller, English, Technology, 39
+12238, Science in the Kitchen, Mrs. E. E. Kellogg, English, Technology, 29
+26323, The Suffrage Cook Book, L. O. Kleber, English, Technology, 40
+13177, Chocolate and Cocoa Recipes and Home Made Candy Recipes, Miss Parloa, English, Technology, 36
+25983, Birds Illustrated by Color Photography, Various, English, Scientific, 20
+25973, Birds of the Rockies, Leander Sylvester Keyser, English, Scientific, 22
+26346, Our Bird Comrades, Leander Sylvester, English, Scientific, 30
+25874, Birds Illustrated by Color Photograph, Various, English, Scientific, 33
+53499, Martin Luther, Carl E. Koppenhaver, English, History, 37
+984, Who Was Who: 5000 B. C. to Date, Anonymous, English, History, 28
+13888, Bacon, Richard William Church, English, History, 29
+4667, Seven Wives and Seven Prisons, L.A. Abbott, English, History, 26
+15097, A Grammar of the English Tongue, Samuel Johnson, English, Education, 26
+14070, English Grammar in Familiar Lectures, Samuel Kirkham, English, Education, 38
+31963, Der Fliegende Holländer, Richard Wagner, German, Education, 40
+7010, Graded Lessons in English An Elementary English Grammar Consisting of One Hundred Practical Lessons, Alonzo Reed, English, Education, 40
