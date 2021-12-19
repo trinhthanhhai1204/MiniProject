@@ -38,7 +38,7 @@ public class Main {
 
                 case"2":
                     System.out.println("Edit Book");
-                    System.out.println("Ener ID: ");
+                    System.out.println("Enter ID: ");
                     double bookId = scanner.nextDouble();
                     scanner.nextLine();
                     bookManager.editName(bookId);
